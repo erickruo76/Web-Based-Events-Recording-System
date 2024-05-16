@@ -20,7 +20,7 @@ To use this system, follow these steps:
 1. Clone this repository to your local machine using Git:
 
     ```bash
-    git clone https://github.com/your-username/event-management-system.git
+    git clone https://github.com/erickruo76/event-management-system.git
     ```
 
 2. Navigate to the project directory:
